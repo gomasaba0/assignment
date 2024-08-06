@@ -119,21 +119,15 @@ p {
 }
 .card {
     display: flex;
-    padding: 50px 120px;
+    padding: 50px 180px;
 }
 .card-1 {
     width: 300px;
     margin-right: 95px;
-    /* ↓ 不要です */
 }
 .card-2 {
     width: 300px;
-    /* ↓ 不要です */
 }
-/* 
- * margin: autoをなくすと、カードの間の余白がなくなります
- * 間に余白をつけたい場合は、card-1の右側だけにmarginをつけると良いです！g
- */
 .news-title {
     font-family: "Sawarabi Mincho", serif;
     padding-top: 30px;

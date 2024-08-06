@@ -124,12 +124,12 @@ p {
 .card-1 {
     width: 300px;
     /* ↓ 不要です */
-    /* margin: auto; */
+    margin: auto;
 }
 .card-2 {
     width: 300px;
     /* ↓ 不要です */
-    /* margin: auto; */
+    margin: auto;
 }
 /* 
  * margin: autoをなくすと、カードの間の余白がなくなります
